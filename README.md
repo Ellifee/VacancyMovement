@@ -1,5 +1,5 @@
 # VacancyMovement
-The code generates a monte Carlo simulation on vacancy movements in a CIS cristal in C++
+The code generates a monte Carlo simulation on vacancy movements in a CIS cristal in C++ within a project in the AIT photovoltaik group.
 
 The simulation starts always with implementing the grid and filling the grid with atoms grid::fillgrid(). 
 This happens after a random choice, but restricted by the pattern: 
